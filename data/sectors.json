@@ -1,0 +1,228 @@
+[
+  {
+    "slug": "healthcare",
+    "name": "Healthcare & Public Health",
+    "summary": "AI, analytics, health informatics, population health, medical data workflows.",
+    "keywords": [
+      "health informatics",
+      "public health",
+      "AI healthcare",
+      "clinical analytics",
+      "population health",
+      "medical data"
+    ],
+    "sampleBusiness": "AI healthcare analytics firm helping clinics and agencies analyze public health data.",
+    "opportunities": [
+      {
+        "id": "HLTH-P0-001",
+        "title": "AI-Enabled Public Health Modeling Pilot",
+        "agency": "HHS / Demo",
+        "priority": "P0",
+        "score": 94,
+        "deadline": "2026-06-15",
+        "type": "Grant / Cooperative Agreement",
+        "summary": "Funding for applied AI models supporting public health forecasting, dashboards, and intervention planning."
+      },
+      {
+        "id": "HLTH-P1-002",
+        "title": "Community Health Data Infrastructure Modernization",
+        "agency": "CDC / Demo",
+        "priority": "P1",
+        "score": 84,
+        "deadline": "2026-07-01",
+        "type": "Contract Notice",
+        "summary": "Technical support for secure public health data pipelines and reporting systems."
+      },
+      {
+        "id": "HLTH-P2-003",
+        "title": "Rural Telehealth Workflow Analytics",
+        "agency": "HRSA / Demo",
+        "priority": "P2",
+        "score": 67,
+        "deadline": "2026-07-20",
+        "type": "Grant",
+        "summary": "Workflow and data reporting support for rural telehealth programs."
+      }
+    ]
+  },
+  {
+    "slug": "education",
+    "name": "Education & Workforce",
+    "summary": "Learning systems, analytics, workforce training, student support, LMS modernization.",
+    "keywords": [
+      "education technology",
+      "learning analytics",
+      "workforce development",
+      "LMS",
+      "student data",
+      "training systems"
+    ],
+    "sampleBusiness": "Education technology provider building dashboards for student progress and workforce readiness.",
+    "opportunities": [
+      {
+        "id": "EDU-P0-001",
+        "title": "AI Learning Analytics for Workforce Pathways",
+        "agency": "Department of Education / Demo",
+        "priority": "P0",
+        "score": 91,
+        "deadline": "2026-06-30",
+        "type": "Grant",
+        "summary": "Support for analytics systems that connect student progress with workforce outcomes."
+      },
+      {
+        "id": "EDU-P1-002",
+        "title": "Digital Skills Training Platform Expansion",
+        "agency": "Department of Labor / Demo",
+        "priority": "P1",
+        "score": 82,
+        "deadline": "2026-08-02",
+        "type": "RFP",
+        "summary": "Development of training modules, dashboards, and reporting for regional workforce programs."
+      }
+    ]
+  },
+  {
+    "slug": "construction",
+    "name": "Construction & Infrastructure",
+    "summary": "Facilities, resilience, energy upgrades, compliance documentation, infrastructure planning.",
+    "keywords": [
+      "construction",
+      "infrastructure",
+      "resilience",
+      "energy efficiency",
+      "facilities",
+      "public works"
+    ],
+    "sampleBusiness": "Construction services firm specializing in facility upgrades, public works, and energy-efficient retrofits.",
+    "opportunities": [
+      {
+        "id": "CON-P0-001",
+        "title": "Municipal Resilience Facility Upgrade Program",
+        "agency": "FEMA / Demo",
+        "priority": "P0",
+        "score": 89,
+        "deadline": "2026-06-10",
+        "type": "Grant / Public Works",
+        "summary": "Funding for resilience upgrades to public facilities, emergency operations centers, and community infrastructure."
+      },
+      {
+        "id": "CON-P1-002",
+        "title": "Energy Efficiency Retrofit Services",
+        "agency": "DOE / Demo",
+        "priority": "P1",
+        "score": 80,
+        "deadline": "2026-07-11",
+        "type": "Contract Notice",
+        "summary": "Retrofit planning, contractor support, and documentation for energy performance upgrades."
+      }
+    ]
+  },
+  {
+    "slug": "cybersecurity",
+    "name": "Cybersecurity & Risk",
+    "summary": "Threat detection, security operations, risk assessment, compliance, incident response.",
+    "keywords": [
+      "cybersecurity",
+      "risk assessment",
+      "SOC",
+      "threat intelligence",
+      "incident response",
+      "zero trust"
+    ],
+    "sampleBusiness": "Cybersecurity consulting firm providing risk assessments, SOC support, and incident response.",
+    "opportunities": [
+      {
+        "id": "CYB-P0-001",
+        "title": "Regional Cyber Resilience Technical Assistance",
+        "agency": "CISA / Demo",
+        "priority": "P0",
+        "score": 96,
+        "deadline": "2026-06-21",
+        "type": "Contract / Technical Assistance",
+        "summary": "Support for local government cybersecurity assessments, planning, and resilience exercises."
+      },
+      {
+        "id": "CYB-P1-002",
+        "title": "Zero Trust Implementation Planning Support",
+        "agency": "GSA / Demo",
+        "priority": "P1",
+        "score": 86,
+        "deadline": "2026-07-17",
+        "type": "RFI",
+        "summary": "Planning and documentation support for zero trust adoption across public agencies."
+      }
+    ]
+  },
+  {
+    "slug": "environment",
+    "name": "Environment & Sustainability",
+    "summary": "Climate resilience, water systems, energy, waste reduction, sustainability reporting.",
+    "keywords": [
+      "climate resilience",
+      "sustainability",
+      "water systems",
+      "energy",
+      "waste reduction",
+      "environmental data"
+    ],
+    "sampleBusiness": "Environmental consulting firm providing sustainability analytics and resilience planning.",
+    "opportunities": [
+      {
+        "id": "ENV-P0-001",
+        "title": "Climate Resilience Data Dashboard Program",
+        "agency": "EPA / Demo",
+        "priority": "P0",
+        "score": 92,
+        "deadline": "2026-06-28",
+        "type": "Grant",
+        "summary": "Development of local climate risk dashboards and community resilience reporting."
+      },
+      {
+        "id": "ENV-P1-002",
+        "title": "Water Infrastructure Monitoring Support",
+        "agency": "USDA / Demo",
+        "priority": "P1",
+        "score": 81,
+        "deadline": "2026-07-22",
+        "type": "Contract",
+        "summary": "Monitoring, analytics, and reporting support for rural water infrastructure projects."
+      }
+    ]
+  },
+  {
+    "slug": "local-business",
+    "name": "Local Business & Professional Services",
+    "summary": "Consulting, administration, marketing, operations, procurement readiness, back-office support.",
+    "keywords": [
+      "small business",
+      "professional services",
+      "operations",
+      "marketing",
+      "procurement readiness",
+      "consulting"
+    ],
+    "sampleBusiness": "Local consulting company helping small businesses improve operations and procurement readiness.",
+    "opportunities": [
+      {
+        "id": "LOC-P0-001",
+        "title": "Small Business Technical Assistance Network",
+        "agency": "SBA / Demo",
+        "priority": "P0",
+        "score": 90,
+        "deadline": "2026-06-18",
+        "type": "Cooperative Agreement",
+        "summary": "Support for local technical assistance, advisory services, and business growth programs."
+      },
+      {
+        "id": "LOC-P1-002",
+        "title": "Procurement Readiness Training Services",
+        "agency": "City Economic Development Office / Demo",
+        "priority": "P1",
+        "score": 78,
+        "deadline": "2026-07-14",
+        "type": "RFP",
+        "summary": "Training and consulting services for small businesses entering public procurement."
+      }
+    ]
+  }
+]
