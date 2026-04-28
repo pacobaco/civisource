@@ -2,7 +2,7 @@
   "name": "civisource",
   "version": "0.1.0",
   "private": true,
-  "description": "AI-assisted procurement intelligence, grant discovery, lead capture, proposal generation, and subscription conversion platform.",
+  "description": "AI-assisted procurement intelligence, SAM.gov opportunity discovery, lead capture, proposal generation, and subscription conversion platform.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
