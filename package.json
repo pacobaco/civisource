@@ -1,7 +1,8 @@
 {
-  "name": "civisource-platform",
-  "version": "1.0.0",
+  "name": "civisource",
+  "version": "0.1.0",
   "private": true,
+  "description": "AI-assisted procurement intelligence, grant discovery, lead capture, proposal generation, and subscription conversion platform.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,17 +10,17 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "^14.2.5",
-    "openai": "^4.87.3",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "typescript": "^5.4.5",
-    "@types/node": "^20.11.30",
-    "@types/react": "^18.2.67",
-    "@types/react-dom": "^18.2.22"
+    "next": "latest",
+    "openai": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "resend": "latest",
+    "stripe": "latest"
   },
   "devDependencies": {
-    "eslint": "^8.57.0",
-    "eslint-config-next": "^14.2.5"
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "eslint": "latest",
+    "typescript": "latest"
   }
 }
